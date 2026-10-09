@@ -1,1 +1,3 @@
 gsoc contribution 2027 guidance
+
+changes done 
